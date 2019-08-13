@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the maps page
 
 You can use the [editor on GitHub](https://github.com/buckmasterj/maps/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
